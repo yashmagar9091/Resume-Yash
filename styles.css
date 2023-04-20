@@ -1,0 +1,33 @@
+h1{
+    color:darkslateblue
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+} 
+.intro{
+    text-align: center;
+}
+*{
+    background-color: antiquewhite;
+}
+.html{
+    display: block;
+    margin-left: left;
+    margin-right: 0;
+    margin-top:-10;
+    width: 20%;
+}
+.machine{
+    display: block;
+    margin-left: 80%;
+    margin-right: auto;
+    margin-top: -14%;
+    width: 20%;
+}
+.linkedin{
+    text-align:right;
+    color: crimson;
+}
